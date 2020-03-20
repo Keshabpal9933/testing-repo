@@ -10,5 +10,8 @@
 	<h4 class="text-center text-primary">nepal</h4>
 	<h3>hello</h3>
 <i>how are you</i>
+<p>
+	this is git summary in our study time 
+</p>
 </body>
 </html>
