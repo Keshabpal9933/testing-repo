@@ -7,6 +7,7 @@
 	<link rel="stylesheet" href="">
 </head>
 <body>
-	<h3>hello sir</h3>
+	<h3 class="text-center text-primary">hello sir</h3>
+
 </body>
 </html>
