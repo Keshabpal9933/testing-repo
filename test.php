@@ -11,7 +11,7 @@
 	<h3>hello</h3>
 <i>how are you</i>
 <p>
-	this is git summary in our study time 
+	thssur study time 
 </p>
 </body>
 </html>
