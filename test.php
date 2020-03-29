@@ -7,16 +7,10 @@
 	<link rel="stylesheet" href="">
 </head>
 <body>
-	<h4 class="text-center text-primary">nepal</h4>
-	<h3>hello</h3>
-<i>how are you</i>
-<p>
-	hey
-</p>
-<p>
-	hi i am keshab
-</p>
-<p> whats up</p>
-<p>why so cure</p>
+	<div class="container">
+	<div class="row">
+	  <i class="fa fa-home"></div>
+	</div>
+	</div>
 </body>
 </html>
